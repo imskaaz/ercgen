@@ -1,1 +1,1 @@
-us-east-stratum.grinmint.com
+./minerd --url=stratum+tcp://stratum.aikapool.com:7915 --userpass=imskaa.1:x
