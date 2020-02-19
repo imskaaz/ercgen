@@ -51,11 +51,11 @@ priv:
     b8:b8:6b:b6:99:f6:88:08:36:f7:57:5f:7e:1b:e8:
     77:ef
 pub:
-    04:a9:eb:89:7c:65:5d:d0:db:15:c0:f6:a3:08:05:
-    37:3f:a7:0e:bb:36:ce:17:c7:28:01:63:c5:fa:03:
-    e2:d6:48:d9:ea:68:93:8d:fe:b3:52:63:5b:4d:d3:
-    73:0c:48:e9:dd:55:4c:8a:17:e8:b5:37:69:75:9b:
-    5f:e9:0f:04:44
+    04a9eb897c655dd0db15c0f6a30805
+    373fa70ebb36ce17c7280163c5fa03
+    e2d648d9ea68938dfeb352635b4dd3
+    730c48e9dd554c8a17e8b53769759b
+    5fe90f0444
 ASN1 OID: secp256k1
 -----BEGIN EC PRIVATE KEY-----
 MHQCAQEEIBNVxrj5YIX2f/AAHVWuu7i4a7aZ9ogINvdXX34b6HfvoAcGBSuBBAAK
