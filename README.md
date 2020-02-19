@@ -45,3 +45,15 @@ find . -type f -print0 | xargs -0 sed -i 's/PugyCoin/PigyCoin/g'
 find . -type f -print0 | xargs -0 sed -i 's/PUGYCOIN/PIGYCOIN/g'
 
 find . -type f -print0 | xargs -0 sed -i 's/PUGY/PIGY/g'
+
+
+
+find . -type f -print0 | xargs -0 sed -i 's/9333/2333/g'
+find . -type f -print0 | xargs -0 sed -i 's/9332/2332/g'
+ 
+openssl ecparam -genkey -name secp256k1 -out alertkey.pem
+openssl ec -in alertkey.pem -text > alertkey.hex
+openssl ecparam -genkey -name secp256k1 -out testnetalert.pem
+openssl ec -in testnetalert.pem -text > testnetalert.hex
+openssl ecparam -genkey -name secp256k1 -out genesiscoinbase.pem
+openssl ec -in testnetalert.pem -text > genesiscoinbase.hex
