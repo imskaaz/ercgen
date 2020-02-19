@@ -1,59 +1,17 @@
-UBUNTU DEPENDENCIES:
- 
-sudo apt-get update
- 
-sudo apt-get install build-essential gcc make perl dkms
- 
-reboot
- 
-sudo apt-get install git
- 
-sudo apt-get install build-essential libtool autotools-dev automake pkg-config libssl-dev libevent-dev bsdmainutils
- 
-sudo apt-get install libboost-system-dev libboost-filesystem-dev libboost-chrono-dev libboost-program-options-dev libboost-test-dev libboost-thread-dev
- 
-sudo apt-get install libboost-all-dev
- 
-sudo apt-get install software-properties-common
- 
-sudo add-apt-repository ppa:bitcoin/bitcoin
- 
-sudo apt-get update
- 
-sudo apt-get install libdb4.8-dev libdb4.8++-dev
- 
-sudo apt-get install libminiupnpc-dev
- 
-sudo apt-get install libzmq3-dev
- 
-sudo apt-get install libqt5gui5 libqt5core5a libqt5dbus5 qttools5-dev qttools5-dev-tools libprotobuf-dev protobuf-compiler
- 
-sudo apt-get install libqt4-dev libprotobuf-dev protobuf-compiler
- 
-sudo apt-get install openssl1.0
- 
-sudo apt-get install libssl1.0-dev
- 
-git clone -b 0.8 https://github.com/litecoin-project/litecoin.git
- 
-find . -type f -print0 | xargs -0 sed -i 's/pugycoin/pigycoin/g'
-
-find . -type f -print0 | xargs -0 sed -i 's/Pugycoin/Pigycoin/g'
-
-find . -type f -print0 | xargs -0 sed -i 's/PugyCoin/PigyCoin/g'
-
-find . -type f -print0 | xargs -0 sed -i 's/PUGYCOIN/PIGYCOIN/g'
-
-find . -type f -print0 | xargs -0 sed -i 's/PUGY/PIGY/g'
-
-
-
-find . -type f -print0 | xargs -0 sed -i 's/9333/2333/g'
-find . -type f -print0 | xargs -0 sed -i 's/9332/2332/g'
- 
-openssl ecparam -genkey -name secp256k1 -out alertkey.pem
-openssl ec -in alertkey.pem -text > alertkey.hex
-openssl ecparam -genkey -name secp256k1 -out testnetalert.pem
-openssl ec -in testnetalert.pem -text > testnetalert.hex
-openssl ecparam -genkey -name secp256k1 -out genesiscoinbase.pem
-openssl ec -in testnetalert.pem -text > genesiscoinbase.hex
+Private-Key: (256 bit)
+priv:
+    f3:02:57:99:90:e0:59:7d:c3:f3:ed:e1:5c:52:44:
+    32:51:5a:9d:8f:fa:c0:19:b1:25:f7:8a:73:5f:31:
+    27:be
+pub:
+    04:79:0f:91:22:a6:f5:ac:6a:e7:d3:22:c8:8e:24:
+    db:d5:53:8d:d3:c3:c2:8b:c3:c9:a6:e5:52:66:9c:
+    9e:1a:1c:25:65:2a:2c:99:9a:93:c2:9a:67:04:fe:
+    50:59:96:3a:70:6a:2a:05:1b:79:de:39:33:4c:7f:
+    20:76:76:27:a0
+ASN1 OID: secp256k1
+-----BEGIN EC PRIVATE KEY-----
+MHQCAQEEIPMCV5mQ4Fl9w/Pt4VxSRDJRWp2P+sAZsSX3inNfMSe+oAcGBSuBBAAK
+oUQDQgAEeQ+RIqb1rGrn0yLIjiTb1VON08PCi8PJpuVSZpyeGhwlZSosmZqTwppn
+BP5QWZY6cGoqBRt53jkzTH8gdnYnoA==
+-----END EC PRIVATE KEY-----
