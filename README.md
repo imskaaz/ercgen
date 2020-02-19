@@ -36,8 +36,12 @@ sudo apt-get install libssl1.0-dev
  
 git clone -b 0.8 https://github.com/litecoin-project/litecoin.git
  
-find . -type f -print0 | xargs -0 sed -i 's/litecoin/pugycoin/g'
-find . -type f -print0 | xargs -0 sed -i 's/Litecoin/Pugycoin/g'
-find . -type f -print0 | xargs -0 sed -i 's/LiteCoin/PugyCoin/g'
-find . -type f -print0 | xargs -0 sed -i 's/LITECOIN/PUGYCOIN/g'
-find . -type f -print0 | xargs -0 sed -i 's/LTC/PUGY/g'
+find . -type f -print0 | xargs -0 sed -i 's/pugycoin/pigycoin/g'
+
+find . -type f -print0 | xargs -0 sed -i 's/Pugycoin/Pigycoin/g'
+
+find . -type f -print0 | xargs -0 sed -i 's/PugyCoin/PigyCoin/g'
+
+find . -type f -print0 | xargs -0 sed -i 's/PUGYCOIN/PIGYCOIN/g'
+
+find . -type f -print0 | xargs -0 sed -i 's/PUGY/PIGY/g'
