@@ -1,9 +1,9 @@
-find . -type f -print0 | xargs -0 sed -i 's/litecoin/pigycoin/g'
+find . -type f -print0 | xargs -0 sed -i 's/bitcoin/pigycoin/g'
 
-find . -type f -print0 | xargs -0 sed -i 's/Litecoin/Pigycoin/g'
+find . -type f -print0 | xargs -0 sed -i 's/Bitcoin/Pigycoin/g'
 
-find . -type f -print0 | xargs -0 sed -i 's/LiteCoin/PigyCoin/g'
+find . -type f -print0 | xargs -0 sed -i 's/BitCoin/PigyCoin/g'
 
-find . -type f -print0 | xargs -0 sed -i 's/LITECOIN/PIGYCOIN/g'
+find . -type f -print0 | xargs -0 sed -i 's/BITCOIN/PIGYCOIN/g'
 
-find . -type f -print0 | xargs -0 sed -i 's/LTC/PIGY/g'
+find . -type f -print0 | xargs -0 sed -i 's/BTC/PIGY/g'
