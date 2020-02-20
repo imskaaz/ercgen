@@ -12,3 +12,5 @@ find . -type f -print0 | xargs -0 sed -i 's/BTC/PIGY/g'
 https://www.walletbuilders.com/mycoin?coin=9bbeec9655788d25a131bc5776008f38f8911455d01ce190bc
 
 PXWQXSNdvuqeh8Xh5miqKcoi3cXWWvQBaW
+
+https://www.hackster.io/pjdecarlo/how-to-make-a-cryptocurrency-using-litecoin-v0-15-source-fb5e82
