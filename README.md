@@ -1,6 +1,6 @@
 65.52.8.238
 
-https://coinsbit.io/referral/cd9eadb9-6629-4909-8c53-eaab94afa99f
+https://drive.google.com/open?id=1QqXjRpOioeovwQ9lfzgIp2JhMpiqCvbO
 
 
 find ./ -type f -readable -writable -exec sed -i "s/Litecoin/Pigycoin/g" {} \;
