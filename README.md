@@ -1,3 +1,4 @@
+65.52.8.238
 find ./ -type f -readable -writable -exec sed -i "s/Litecoin/Pigycoin/g" {} \;
 find ./ -type f -readable -writable -exec sed -i "s/LiteCoin/PigyCoin/g" {} \;
 find ./ -type f -readable -writable -exec sed -i "s/LTC/PIGY/g" {} \;
