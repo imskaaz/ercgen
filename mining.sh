@@ -1,3 +1,5 @@
+export PS1="\[\e[31m\]Welcome to PigyMiners\[\e[m\] \[\e[32m\]\u\[\e[m\] "
+
 ./pigycoin-cli generate 1
 ./pigycoin-cli generate 1
 ./pigycoin-cli generate 1
