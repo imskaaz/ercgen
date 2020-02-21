@@ -8,292 +8,102 @@
 #Website        : https://pigycoin.org                                          
 ###########################################
 export PS1="\[\e[31m\]Welcome to PigyMiners\[\e[m\] \[\e[32m\]\u\[\e[m\] "
-
+echo "Mining Started"
 ./pigycoin-cli generate 1
+echo "Mined!"
 ./pigycoin-cli generate 1
+echo "Mined!"
 ./pigycoin-cli generate 1
+echo "Mined!"
 ./pigycoin-cli generate 1
+echo "Mined!"
 ./pigycoin-cli generate 1
+echo "Mined!"
 ./pigycoin-cli generate 1
+echo "Mined!"
 ./pigycoin-cli generate 1
+echo "Mined!"
 ./pigycoin-cli generate 1
+echo "Mined!"
 ./pigycoin-cli generate 1
+echo "Mined!"
 ./pigycoin-cli generate 1
+echo "Mined!"
 ./pigycoin-cli generate 1
+echo "Mined!"
 ./pigycoin-cli generate 1
+echo "Mined!"
 ./pigycoin-cli generate 1
+echo "Mined!"
 ./pigycoin-cli generate 1
+echo "Mined!"
 ./pigycoin-cli generate 1
+echo "Mined!"
 ./pigycoin-cli generate 1
+echo "Mined!"
 ./pigycoin-cli generate 1
+echo "Mined!"
 ./pigycoin-cli generate 1
+echo "Mined!"
 ./pigycoin-cli generate 1
+echo "Mined!"
 ./pigycoin-cli generate 1
+echo "Mined!"
 ./pigycoin-cli generate 1
+echo "Mined!"
 ./pigycoin-cli generate 1
+echo "Mined!"
 ./pigycoin-cli generate 1
+echo "Mined!"
 ./pigycoin-cli generate 1
+echo "Mined!"
 ./pigycoin-cli generate 1
+echo "Mined!"
 ./pigycoin-cli generate 1
+echo "Mined!"
 ./pigycoin-cli generate 1
+echo "Mined!"
 ./pigycoin-cli generate 1
+echo "Mined!"
 ./pigycoin-cli generate 1
+echo "Mined!"
 ./pigycoin-cli generate 1
+echo "Mined!"
 ./pigycoin-cli generate 1
+echo "Mined!"
 ./pigycoin-cli generate 1
+echo "Mined!"
 ./pigycoin-cli generate 1
+echo "Mined!"
 ./pigycoin-cli generate 1
+echo "Mined!"
 ./pigycoin-cli generate 1
+echo "Mined!"
 ./pigycoin-cli generate 1
+echo "Mined!"
 ./pigycoin-cli generate 1
+echo "Mined!"
 ./pigycoin-cli generate 1
+echo "Mined!"
 ./pigycoin-cli generate 1
+echo "Mined!"
 ./pigycoin-cli generate 1
+echo "Mined!"
 ./pigycoin-cli generate 1
+echo "Mined!"
 ./pigycoin-cli generate 1
+echo "Mined!"
 ./pigycoin-cli generate 1
+echo "Mined!"
 ./pigycoin-cli generate 1
+echo "Mined!"
 ./pigycoin-cli generate 1
+echo "Mined!"
 ./pigycoin-cli generate 1
+echo "Mined!"
 ./pigycoin-cli generate 1
+echo "Mined!"
 ./pigycoin-cli generate 1
+echo "Mined!"
 ./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
-./pigycoin-cli generate 1
+echo "Mined!"
