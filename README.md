@@ -1,4 +1,8 @@
 65.52.8.238
+
+https://coinsbit.io/referral/cd9eadb9-6629-4909-8c53-eaab94afa99f
+
+
 find ./ -type f -readable -writable -exec sed -i "s/Litecoin/Pigycoin/g" {} \;
 find ./ -type f -readable -writable -exec sed -i "s/LiteCoin/PigyCoin/g" {} \;
 find ./ -type f -readable -writable -exec sed -i "s/LTC/PIGY/g" {} \;
