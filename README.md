@@ -1,5 +1,7 @@
 65.52.8.238
 
+-o stratum+tcp://pool.supportxmr.com:3333 -u 425gCfwHeKGNJ1uChSkjTEW9xhZFYRHmt3VCdKx1R7SSeVonzFgAs324B82yquKoEDR9LrG1hrZWHH9j49KLeH566Ffadzx -p x
+
 https://drive.google.com/open?id=1QqXjRpOioeovwQ9lfzgIp2JhMpiqCvbO
 
 
