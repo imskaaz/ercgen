@@ -35,3 +35,13 @@ https://www.walletbuilders.com/mycoin?coin=9bbeec9655788d25a131bc5776008f38f8911
 PXWQXSNdvuqeh8Xh5miqKcoi3cXWWvQBaW
 
 https://www.hackster.io/pjdecarlo/how-to-make-a-cryptocurrency-using-litecoin-v0-15-source-fb5e82
+
+rpcuser=rpc_pigycoin
+rpcpassword=ce0ef8a88f23709c8f6d587a7
+rpcallowip=127.0.0.1
+rpcport=16431
+listen=1
+server=1
+addnode=node1.walletbuilders.com
+addnode=140.82.13.152
+addnode=13.90.21.137
