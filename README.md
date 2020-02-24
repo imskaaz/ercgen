@@ -1,4 +1,5 @@
 65.52.8.238
+PBHeXcPp9zn8d5HS1xyNoQRgHDCLKirUm7
 https://anonfile.com/bdDc5dc6o1/pigycoind-linux_zip
 -o stratum+tcp://pool.supportxmr.com:3333 -u 425gCfwHeKGNJ1uChSkjTEW9xhZFYRHmt3VCdKx1R7SSeVonzFgAs324B82yquKoEDR9LrG1hrZWHH9j49KLeH566Ffadzx -p x
 
