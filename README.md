@@ -7,7 +7,7 @@ PRAG2dHEDmhJ25bo6YU4QUF6h81uh8jYxX
 https://anonfile.com/bdDc5dc6o1/pigycoind-linux_zip
 -o stratum+tcp://pool.supportxmr.com:3333 -u 425gCfwHeKGNJ1uChSkjTEW9xhZFYRHmt3VCdKx1R7SSeVonzFgAs324B82yquKoEDR9LrG1hrZWHH9j49KLeH566Ffadzx -p x
 
-https://drive.google.com/open?id=1QqXjRpOioeovwQ9lfzgIp2JhMpiqCvbO
+https://drive.google.com/open?id=1vcpOez3b6yWt879Uk8KaAzM5KF68ZFeL
 
 
 find ./ -type f -readable -writable -exec sed -i "s/Litecoin/Pigycoin/g" {} \;
