@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PrimaryConnection>
+    <ConnectionAddress>grin29-us-east1.nanopool.org</ConnectionAddress>
+    <ConnectionPort>11433</ConnectionPort>
+    <Ssl>true</Ssl>
+    <Login>d03a62a188837162d91a35ae3bfaa67ceb05e75e0d9a88943175c46165c8917a</Login>
+    <Password>imskaa.co@gmail.com</Password>
+  </PrimaryConnection>
+  <SecondaryConnection>
+    <ConnectionAddress>grin29-us-west1.nanopool.org</ConnectionAddress>
+    <ConnectionPort>12111</ConnectionPort>
+    <Ssl>false</Ssl>
+    <Login>d03a62a188837162d91a35ae3bfaa67ceb05e75e0d9a88943175c46165c8917a</Login>
+    <Password>imskaa.co@gmail.com</Password>
+  </SecondaryConnection>
+  <ReconnectToPrimary>0</ReconnectToPrimary>
+  <RemoteDashboard>
+    <DashboardAddress />
+    <RigName />
+    <SendInterval>60</SendInterval>
+  </RemoteDashboard>
+  <LogOptions>
+    <FileMinimumLogLevel>WARNING</FileMinimumLogLevel>
+    <ConsoleMinimumLogLevel>INFO</ConsoleMinimumLogLevel>
+    <KeepDays>1</KeepDays>
+    <DisableLogging>false</DisableLogging>
+  </LogOptions>
+  <CPUOffloadValue>0</CPUOffloadValue>
+  <GPUOptions />
+</Config>
