@@ -1,5 +1,22 @@
 65.52.8.238
 
+
+
+openssl ecparam -genkey -name secp256k1 -out alertkey.pem
+
+openssl ec -in alertkey.pem -text > alertkey.hex
+
+openssl ecparam -genkey -name secp256k1 -out testnetalert.pem
+
+openssl ec -in testnetalert.pem -text > testnetalert.hex
+
+openssl ecparam -genkey -name secp256k1 -out genesiscoinbase.pem
+
+openssl ec -in testnetalert.pem -text > genesiscoinbase.hex
+
+
+
+
 hash 0e4b0aae79870ff6a4556eceed786deb8a46cfab75d2fc834d979af86634f898
 tx id 152e25f080932124e5803f07540a212636832bc2c7065a78cfb83dee3588234c
 address PWsXqjskvwBa3egGtv8J5fxWZJM2C6upBG
