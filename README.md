@@ -6,11 +6,13 @@ priv:
     83:61:8c:7d:93:5b:9b:9b:2f:1a:4b:a3:4b:77:05:
     3f:f0
 pub:
-    04:db:28:30:a9:a6:b8:ad:90:e5:f9:10:cd:95:17:
-    d7:df:f3:88:0f:56:2b:1f:41:99:08:ae:8d:89:dc:
-    7c:d9:05:b5:b8:3a:fe:ad:e8:d7:22:cd:c7:99:b5:
-    29:64:4a:70:99:7c:89:84:3b:ac:92:a1:ea:c5:bb:
-    7b:bb267d07
+
+    04db2830a9a6b8ad90e5f910cd9517
+    d7dff3880f562b1f419908ae8d89dc
+    7cd905b5b83afeade8d722cdc799b5
+    29644a70997c89843bac92a1eac5bb
+    7bbb267d07
+
 ASN1 OID: secp256k1
 -----BEGIN EC PRIVATE KEY-----
 MHQCAQEEIJ0lps1ES4AN8qnIePdV/oNhjH2TW5ubLxpLo0t3BT/woAcGBSuBBAAK
